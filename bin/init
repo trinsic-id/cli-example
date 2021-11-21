@@ -8,7 +8,7 @@ echo "
    ██    ██   ██ ██ ██  ██ ██      ██ ██ ██      
    ██    ██   ██ ██ ██   ████ ███████ ██  ██████ 
 
-Shell initialized. Type 'trinsic signin' to start
+Shell initialized. Visit https://docs-v2.trinsic.id/cli to get started.
 "               
 
 bash
