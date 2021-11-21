@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # Create Wallets
 trinsic wallet create --description "Allison's Wallet" --name allison && \
