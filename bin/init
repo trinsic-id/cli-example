@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo alias trinsic=$(pwd)/bin/trinsic >> ~/.bashrc
+echo " 
+████████ ██████  ██ ███    ██ ███████ ██  ██████
+   ██    ██   ██ ██ ████   ██ ██      ██ ██      
+   ██    ██████  ██ ██ ██  ██ ███████ ██ ██      
+   ██    ██   ██ ██ ██  ██ ██      ██ ██ ██      
+   ██    ██   ██ ██ ██   ████ ███████ ██  ██████ 
+
+Shell initialized. Type 'trinsic signin' to start
+"               
+
+bash
