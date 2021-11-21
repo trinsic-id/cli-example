@@ -1,7 +1,10 @@
 # Welcome to Trinsic CLI
 
-We help developers add decentralized identity to their applications
+We help developers issue and verify universally accepted digital credentials
 
-Click Run to get started.
+## Installation
+- **On Replit**: Click Run on the [replit page](https://replit.com/@trinsic/cli)
+- **Locally**: Install our CLI using the instructions in the [CLI Documentation](https://docs-v2.trinsic.id/cli)
 
-Follow the walkthrough on our docs: https://docs-v2.trinsic.id
+## Walkthrough
+Follow our [walkthrough](https://docs-v2.trinsic.id/cli/vaccination-cli) to issue and verify a vaccination certificate
